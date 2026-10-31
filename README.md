@@ -1,6 +1,6 @@
 # Vulkan_Study
 
-Windows port of the Android "Aura" Vulkan template by Aditya Mattoo. This project demonstrates modular Vulkan rendering with a focus on learning and experimentation.
+Windows port of the Android "Aura" Vulkan template. This project demonstrates modular Vulkan rendering with a focus on learning and experimentation.
 
 ## Features
 
